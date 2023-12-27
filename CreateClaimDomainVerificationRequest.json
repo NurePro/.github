@@ -1,7 +1,7 @@
 {
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://example.com/path/to/file/context.jsonld"
+            "jsonLdContext": "ipfs://QmNPNw9UijjbS5JJZfakrWoV9c6z2PhjvYHtfptEP3N9xD"
         },
         "version": "1.0",
         "type": "organization"
